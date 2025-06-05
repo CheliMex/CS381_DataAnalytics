@@ -1,1 +1,1 @@
-# CS381-Data-Science
+# CS381_DataScience
