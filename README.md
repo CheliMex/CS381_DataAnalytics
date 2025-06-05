@@ -6,7 +6,5 @@
 <br>We build end-to-end models going through the full life-cycle.
 
 ## Topic: Applied Data Science
-<br> 3 HW
-<br> 3 Projoects
 
 
