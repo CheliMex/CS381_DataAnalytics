@@ -1,4 +1,4 @@
-# CS381_DataScience
+# CS381_DataAnalytics
 
 <b>Overview:</b>
 <br>We will cover an in depth walkthrough of Data Analytics via Python. 
