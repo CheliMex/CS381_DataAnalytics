@@ -6,7 +6,7 @@
 ✨ **Overview:** ✨
 Welcome to Data Analytics!
 There will be essential concepts, focusing on:
-* 🐍 Data Analytics using Python
+* 🐍 ** Data Analytics using Python **
 * 🎯 **Data Visualization:** Turning raw data into actionable insights.
 * 📊 **Classification & Regression:** Predictive modeling techniques.
 * 📉 **Clustering:** Discovering hidden patterns in data.
@@ -33,12 +33,6 @@ There will be essential concepts, focusing on:
 * **Jupyter Notebooks:** Interactive code and explanations. 📓
 * **Datasets:** Sample data. 🗄️
 * **Projects/Homeworks:** Data science projects and HW. 📁
-
----
-
-### Contribution & Support: 🙏
-
-We welcome contributions! If you have suggestions or find issues, please open an issue or submit a pull request.
 
 ---
 
