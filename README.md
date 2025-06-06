@@ -14,7 +14,7 @@ There will be essential concepts, focusing on:
 
 ---
 
-## 🔬 Topic: Applied Data Science
+## Topic: Applied Data Science 🔬
 
 * **Exploratory Data Analysis (EDA):** Delving into datasets to discover patterns, spot anomalies, test hypotheses, and check assumptions with summary statistics and graphical representations.
 * **Machine Learning Fundamentals:**
@@ -27,12 +27,12 @@ There will be essential concepts, focusing on:
 
 ---
 
-### What You'll Find Here:
+### What You'll Find Here: 🔑
 
 * **Python Code:** Code and comments.🐍
 * **Jupyter Notebooks:** Interactive code and explanations. 📓
 * **Datasets:** Sample data. 🗄️
-* **Projects/Homeworks:** Data science projects and HW. 🚀
+* **Projects/Homeworks:** Data science projects and HW. 📁
 
 ---
 
@@ -42,6 +42,6 @@ We welcome contributions! If you have suggestions or find issues, please open an
 
 ---
 
-### License:
+### License: 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ©️
