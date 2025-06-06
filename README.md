@@ -1,16 +1,16 @@
 # CS381_DataAnalytics 📊📈
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**Overview:**
-🚀 Welcome to an in-depth walkthrough of Data Analytics with Python!
-We cover essential concepts and practical applications, focusing on:
-* ✨ **Data Visualization:** Turning raw data into actionable insights.
+✨ **Overview:** ✨
+Welcome to Data Analytics!
+There will be essential concepts, focusing on:
+* 🐍 Data Analytics using Python
+* 🎯 **Data Visualization:** Turning raw data into actionable insights.
 * 📊 **Classification & Regression:** Predictive modeling techniques.
 * 📉 **Clustering:** Discovering hidden patterns in data.
-* ⚙️ **Advanced Techniques:** Exploring cutting-edge analytical methods.
-We build end-to-end models, guiding you through the complete data science lifecycle.
+* 🧠**Advanced Techniques:** Exploring cutting-edge analytical methods.
 
 ---
 
@@ -29,16 +29,16 @@ We build end-to-end models, guiding you through the complete data science lifecy
 
 ### What You'll Find Here:
 
-* **Jupyter Notebooks:** Interactive code examples and explanations. 📓
-* **Datasets:** Sample data for hands-on practice. 🗄️
-* **Project Walkthroughs:** End-to-end data science projects. 🚀
-* **Resources:** Links to relevant documentation and further reading. 💡
+* **Python Code:** Code and comments.🐍
+* **Jupyter Notebooks:** Interactive code and explanations. 📓
+* **Datasets:** Sample data. 🗄️
+* **Projects/Homeworks:** Data science projects and HW. 🚀
 
 ---
 
-### Contribution & Support:
+### Contribution & Support: 🙏
 
-We welcome contributions! If you have suggestions or find issues, please open an issue or submit a pull request. 🙏
+We welcome contributions! If you have suggestions or find issues, please open an issue or submit a pull request.
 
 ---
 
