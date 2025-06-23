@@ -1,0 +1,2 @@
+Instructions
+Create a full data science (analytics) project.  You must find and clean a data set, give your data summary (showing your domain expertise), create an EDA, do feature engineering and feature selection, and then create at least three models, choosing the best model and explaining why you chose that model with a final summary.  You should make sure to include a technique that uses trees somewhere along in your workflow.  Please upload the a link to your notebook as well as your presentation slides.
