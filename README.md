@@ -23,8 +23,7 @@ There will be essential concepts, focusing on:
     * **Clustering:** Grouping similar data points together without prior labels (e.g., customer segmentation).
 * **Data Preprocessing:** Cleaning, transforming, and preparing raw data for analysis and model building.
 * **Model Evaluation & Selection:** Understanding metrics and choosing the best models for various tasks.
-* **Deployment & MLOps Concepts:** Brief introduction to taking models from development to production.
-
+  
 ---
 
 ### What You'll Find Here: 🔑
